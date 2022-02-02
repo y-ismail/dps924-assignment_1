@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clearButtonLabel">Clear</string>
+    <string name="buttonLabel_1">1</string>
+    <string name="buttonLabel_2">2</string>
+    <string name="buttonLabel_3">3</string>
+    <string name="buttonLabel_4">4</string>
+    <string name="buttonLabel_5">5</string>
+    <string name="buttonLabel_6">6</string>
+    <string name="buttonLabel_7">7</string>
+    <string name="buttonLabel_8">8</string>
+    <string name="buttonLabel_9">9</string>
+    <string name="buttonLabel_0">0</string>
+    <string name="symbol_divide">÷</string>
+    <string name="symbol_multiply">×</string>
+    <string name="symbol_add">+</string>
+    <string name="symbol_subtract">-</string>
+    <string name="symbol_equals">=</string>
+    <string name="space"> </string>
+    <string name="advancedBtn">Advanced</string>
+    <string name="modulo">%</string>
+    <string name="power">^</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="history_display">%1$s =</string>
+    <string name="display_window">%1$s %2$s</string>
+</resources>
