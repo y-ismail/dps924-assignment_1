@@ -82,7 +82,6 @@ public class Calculator {
 
 
             }catch (Exception e) {
-                System.out.println(e.getMessage());
                 throw new Exception("Not an operator.");
             }
 
