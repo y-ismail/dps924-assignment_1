@@ -3,10 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/School/S8_W22/DPS924/assignment_1/app/src/main/res/drawable/clear_button.xml" value="0.2341880341880342" />
-        <entry key="..\:/School/S8_W22/DPS924/assignment_1/app/src/main/res/drawable/operation_button.xml" value="0.2341880341880342" />
-        <entry key="..\:/School/S8_W22/DPS924/assignment_1/app/src/main/res/drawable/rounded_corners.xml" value="0.23122362869198312" />
-        <entry key="..\:/School/S8_W22/DPS924/assignment_1/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/clear_button.xml" value="0.2341880341880342" />
+        <entry key="app/src/main/res/drawable/operation_button.xml" value="0.2341880341880342" />
+        <entry key="app/src/main/res/drawable/rounded_corners.xml" value="0.23122362869198312" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
   </component>
